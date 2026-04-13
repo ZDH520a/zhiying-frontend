@@ -1,4 +1,4 @@
-const readmeContent = `# 稚影 (Zhiying) - 成神经细胞瘤多模态辅助诊断平台 🔬
+稚影 (Zhiying) - 成神经细胞瘤多模态辅助诊断平台 🔬
 
 本项目是稚影（Zhiying）前端工程的完整实现，采用了 PC 专业工作站与 Mobile 移动助手双端隔离架构。
 
@@ -72,4 +72,4 @@ npm run dev
 - **构建工具**: Vite
 
 ---
-**© 2024 Zhiying Tech · 医疗 AI 创新探索项目**`;
+**© 2026 Zhiying Tech · 医疗 AI 创新探索项目**`;
